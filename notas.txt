@@ -1,0 +1,6 @@
+adicionar um remoto
+git remote add <nomedesejado> <link>
+
+dar um pull de alguém para o nosso master
+git pull <nome> master
+
