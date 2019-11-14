@@ -1,0 +1,28 @@
+body{
+    background-size: 30%;
+    background-image: url(https://i1.wp.com/www.nerdssauros.com.br/wp-content/uploads/2019/04/jojosbizarreadventure-anime-keyart-s1tos3.jpg?fit=1000%2C600&ssl=1);
+}
+img{
+    border: 1px transparent black;
+    padding: 10px 5px 20px 15px;
+    margin : 2px 10px;
+    position: relative;
+ 
+    left: 500px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    border: 5px solid purple;
+    background-color: purple;
+
+}
+ol,il{
+    position: relative;
+    left: 600px;
+    font-size: 30px;
+    color: white;
+    border: 5px solid purple;
+    background-color: purple;
+    display: inline-block;
+}

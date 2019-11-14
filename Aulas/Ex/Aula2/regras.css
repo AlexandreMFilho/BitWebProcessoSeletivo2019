@@ -1,9 +1,20 @@
-p,h1 {
+p,h1,hr {
     color:purple;
     font-family:"book antiqua"
     }
 h2{
     color:green
+}
+table,th,td{
+    border: 1px solid;
+}
+img{
+border: 50px solid green;
+padding: 10px 5px 20px 15px;
+margin : 2px 10px;
+}
+body{
+    background-color: green;
 }
 /*h2,h3,h4,h5{
     font-size:100px
