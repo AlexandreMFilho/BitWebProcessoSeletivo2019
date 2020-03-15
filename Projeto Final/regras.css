@@ -2,18 +2,42 @@ body{
     background-size: 100%;
     background-image: url(https://images7.alphacoders.com/526/526236.jpg);
     background-color:white;
+}
 col{
     image: hide_on_small_only;
 }
 menu{
+    align-self: center;
     /*image: size:20%*/
+}
+Video{
+    align-self: center;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.Selecionador{
+    align-self: center;
+}
+.Fotos{
+    align-self: center;
+}
+.Slider{
+    align-self: center;
+}
+.Inscricao{
+    align-self: center;
+}
+.Foot{
+    align-self: center;
 }
 a{
     margin-top: auto;
     margin-left: auto;
     width: 20%;
 }
-p{
+p, h1{
     color: white;
     font-size: large;
 }
