@@ -37,10 +37,11 @@ a{
     margin-left: auto;
     width: 20%;
 }
-p, h1{
+p, h1,h3,h6{
     color: white;
     font-size: large;
 }
 button{
  
 }
+
